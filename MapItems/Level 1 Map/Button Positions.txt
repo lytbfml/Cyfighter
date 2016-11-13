@@ -1,0 +1,13 @@
+SETTINGS
+
+BL: X: 382; Y: 702
+TL: X: 382; Y: 790
+BR: X: 466; Y: 702
+TR: X: 466; Y: 790
+
+BOMB
+
+BL: X: 20; Y: 20 
+TL: X: 20; Y: 97
+BR: X: 97; Y: 97
+TR: X: 97; Y: 20

@@ -1,0 +1,20 @@
+SETTINGS
+
+BL: X = 396; Y = 708
+TL: X = 396; Y = 782
+TR: X = 460; Y = 782
+BR: X = 460; Y = 708
+
+TRY AGAIN
+
+BL: X = 155; Y = 125
+TL: X = 155; Y = 184
+TR: X = 311; Y = 184
+BR: X = 311; Y = 125
+
+POST SCORE
+
+BL: X = 155; Y = 197
+TL: X = 155; Y = 256
+TR: X = 311; Y = 256
+BR: X = 311; Y = 197

@@ -1,0 +1,42 @@
+Difficulty Selection
+
+
+EASY
+
+BL: X = 120; Y = 410
+TL: X = 120; Y = 464
+TR: X = 358; Y = 464
+BR: X = 358; Y = 410
+
+
+NORMAL
+
+BL: X = 120; Y = 332
+TL: X = 120; Y = 385
+TR: X = 358; Y = 385
+BR: X = 358; Y = 332
+
+
+HARD
+
+BL: X = 120; Y = 252
+TL: X = 120; Y = 305
+TR: X = 358; Y = 305
+BR: X = 358; Y = 252
+
+
+SETTINGS
+
+BL: X = 376; Y = 704
+TL: X = 376; Y = 761
+TR: X = 437; Y = 761
+BR: X = 437; Y = 704
+
+
+BACK
+
+
+BL: X = 43;  Y = 704
+TL: X = 43;  Y = 761
+TR: X = 106; Y = 761
+BR: X = 106; Y = 704

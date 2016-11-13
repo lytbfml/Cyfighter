@@ -1,0 +1,95 @@
+BACK
+
+	BL: X: 23, Y: 711
+	TL: X: 23, Y: 784
+	BR: X: 93, Y: 711
+	TR: X: 93, Y: 784
+
+SETTINGS
+
+	BL: X: 116, Y: 711
+	TL: X: 116, Y: 784
+	BR: X: 360, Y: 711
+	TR: X: 360, Y: 784
+
+
+CONTINUE
+
+	BL: X: 381, Y: 711
+	TL: X: 381, Y: 784
+	BR: X: 464, Y: 711
+	TR: X: 464, Y: 784
+
+
+
+Aircraft 1
+
+	BL: X: 33,  Y: 440
+	TL: X: 137, Y: 542
+	BR: X: 33,  Y: 440
+	TR: X: 137, Y: 542
+
+Aircraft 2
+
+	BL: X: 188, Y: 440
+	TL: X: 188, Y: 542
+	BR: X: 291, Y: 440
+	TR: X: 291, Y: 542
+
+Aircraft 3
+
+	BL: X: 341, Y: 440
+	TL: X: 341, Y: 542
+	BR: X: 444, Y: 440
+	TR: X: 444, Y: 542
+
+Weapon 1
+
+	BL: X: 33,  Y: 235
+	TL: X: 137, Y: 337
+	BR: X: 33,  Y: 235
+	TR: X: 137, Y: 337
+
+
+Weapon 2
+
+	BL: X: 188, Y: 235
+	TL: X: 188, Y: 337
+	BR: X: 291, Y: 235
+	TR: X: 291, Y: 337
+
+
+Weapon 3
+
+	BL: X: 341, Y: 235
+	TL: X: 341, Y: 337
+	BR: X: 444, Y: 235
+	TR: X: 444, Y: 337
+
+
+Bomb 1
+
+	BL: X: 33, Y: 37
+	TL: X: 137, Y: 144
+	BR: X: 33, Y: 37
+	TR: X: 137, Y:144
+
+
+
+Bomb 2
+
+	BL: X: 188, Y: 37
+	TL: X: 188, Y: 144
+	BR: X: 291, Y: 37
+	TR: X: 291, Y: 144
+
+
+
+Bomb 3
+
+	BL: X: 341, Y: 37
+	TL: X: 341, Y: 144
+	BR: X: 444, Y: 37
+	TR: X: 444, Y:144
+
+
